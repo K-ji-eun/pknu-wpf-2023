@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wp02_simpleco"
         mc:Ignorable="d"
-        Title="MainWindow" Height="400" Width="250">
+        Title="MainWindow" Height="400" Width="250" Loaded="Window_Loaded">
     <StackPanel>
         <TextBlock Text="텍스트블럭" Width="100" />
         <Label Content="라벨 컨트롤" Width="100" />
@@ -14,7 +14,7 @@
         <Slider x:Name="SldStep" Value="0" Width="100" ValueChanged="SldStep_ValueChanged" />
         <ProgressBar x:Name ="PgdStep" Value="0" Width="100" Height="15" Maximum="10" />
         <Image Source="xaml.png" Height="64" />
-        <MediaElement Source="video.mp4" Width="180" Height="100" LoadedBehavior="Play" />
+        <MediaElement x:Name="MediaPlayer" Source="video.mp4" Width="180" Height="100" LoadedBehavior="Play" />
 
     </StackPanel>
 </Window>
