@@ -1,6 +1,5 @@
 # pknu-wpf-2023
-부경대 IoT 시스템개발자 WPF(데스크탑 앱 개발) 리포지토리
-
+부경대 IoT 시스템개발자 WPF (데스크탑 앱 개발) 리포지토리
 Windows Presentation Foundation
 
 ## 1일차
@@ -25,3 +24,11 @@ Windows Presentation Foundation
 - WPF 응용
 	- MahApps.Metro 디자인 적용
 	- MVVM 패턴
+	- 데이터 바인딩 DB연동
+
+4일차 MVVM View
+
+<img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/1.png" width = "700">
+	
+	
+	
