@@ -49,7 +49,7 @@ Windows Presentation Foundation
 <img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/2.png" width = "700">
 
 ## 7일차 
--WPF 응용
+- WPF 응용
 	- 영화검색앱
 	- CefSharp.WPF
 	- youtube OpenAPI
@@ -68,4 +68,5 @@ Windows Presentation Foundation
 		- DB 데이터바인딩(MySQL)
 
 영화검색앱
+
 <img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/4.gif" width = "700">
