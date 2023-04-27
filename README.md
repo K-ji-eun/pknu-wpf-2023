@@ -56,4 +56,16 @@ Windows Presentation Foundation
 	- DB 데이터 바인딩
 	
 7일차 영화검색앱 중간
-<img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/3.png" width = "700">
+<img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/3.gif" width = "700">
+
+## 8일차 
+- WPF 응용
+	- 영화검색앱
+		- DB 데이터 바인딩 (MySQL)
+	- 미세먼지 확인 앱 개발
+		- MahApps.Metro
+		- 데이터포털 OpenAPI
+		- DB 데이터바인딩(MySQL)
+
+영화검색앱
+<img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/4.gif" width = "700">
