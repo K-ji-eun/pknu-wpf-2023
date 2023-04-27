@@ -70,3 +70,14 @@ Windows Presentation Foundation
 영화검색앱
 
 <img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/4.gif" width = "700">
+
+## 9일차
+- WPF 응용
+	- 미세먼지 확인 앱 완료
+		- MahApps.Metro
+		- 데이터포털 OpenAPI
+		- DB 데이터바인딩(MYSQL)
+	- 개인 포트폴리오 개발방식
+		- 데이터 포털 OpenAPI
+		- 네이버, 카카오 OpenAPI
+		- 기타 OpenAPI

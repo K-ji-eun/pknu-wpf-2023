@@ -1,23 +1,12 @@
-﻿using MahApps.Metro.Controls;
-using MahApps.Metro.Controls.Dialogs;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using MahApps.Metro.Controls.Dialogs;
+using MahApps.Metro.Controls;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace wpf11_MovieFinder.Logics
+namespace wp12_finedustCheck.Logics
 {
     public class Commons
     {
-        //연결 문자열 담을 변수 생성
-        // SQL Server
-        public static readonly string connString = "Data Source=localhost;" +
-                                                   "Initial Catalog=pknu;" +
-                                                   "Persist Security Info=True;" +
-                                                   "User Id=sa;" +
-                                                   "Password=12345;";
         // MySQL용
         public static readonly string myConnString = "Server=localhost;" +
                                                      "Port=3306;" +
