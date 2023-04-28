@@ -42,7 +42,7 @@
                   MouseDoubleClick="GrdResult_MouseDoubleClick"></DataGrid>
 
         <StatusBar Grid.Row="2">
-            <StatusBarItem Content="김해시 미세언지앱" />
+            <StatusBarItem Content="김해시 미세먼지앱" />
             <Separator Style="{StaticResource MahApps.Styles.Separator.StatusBar}" />
             <StatusBarItem x:Name="StsResult" />
         </StatusBar>

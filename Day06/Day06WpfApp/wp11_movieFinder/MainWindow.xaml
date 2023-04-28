@@ -124,5 +124,6 @@
             </Button.ContentTemplate>
         </Button>
     </StackPanel>
-</Grid>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="194,76,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+    </Grid>
 </mah:MetroWindow>
