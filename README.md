@@ -81,3 +81,7 @@ Windows Presentation Foundation
 		- 데이터 포털 OpenAPI
 		- 네이버, 카카오 OpenAPI
 		- 기타 OpenAPI
+
+9일차 미세먼지 확인 앱
+
+<img src = "https://github.com/K-ji-eun/pknu-wpf-2023/blob/main/5.gif" width = "700">
