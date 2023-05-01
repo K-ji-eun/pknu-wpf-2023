@@ -11,9 +11,9 @@
         Title="Dynamic Busan Festival" Height="450" Width="1034" MinWidth="385" MinHeight="645">
     <Grid Margin="10">
         <Grid.RowDefinitions>
-            <RowDefinition Height="60"/>
+            <RowDefinition Height="70"/>
             <RowDefinition Height="1*"/>
-            <RowDefinition Height="25"/>
+            <RowDefinition Height="70"/>
         </Grid.RowDefinitions>
 
         <Grid Grid.Row="0">
@@ -25,12 +25,12 @@
             <Label Grid.Column="0" Content="부산광역시 축제 정보" FontSize="20" FontWeight="Bold" Margin="10" Grid.ColumnSpan="2" />
 
             <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
-                <TextBox  x:Name="TxtFestivalName" FontSize="14" Margin="5"
+                <TextBox  x:Name="TxtFestivalName" FontSize="14" Margin="2"
                      mah:TextBoxHelper.Watermark="검색할 축제정보 입력"
                      mah:TextBoxHelper.UseFloatingWatermark="True"
                      mah:TextBoxHelper.ClearTextButton="True" KeyDown="TxtFestivalName_KeyDown" Grid.ColumnSpan="2"/>
                 <Button x:Name="BtnSearchFestival" FontSize="14" Margin="5" Width="70"
-                    Content="검색" Style="{StaticResource MahApps.Styles.Button.Square.Accent}" Click="BtnFestival_Click" Grid.Column="1" >
+                    Content="검색" Style="{StaticResource MahApps.Styles.Button.Square.Accent}" Click="BtnSearchFestival_Click" Grid.Column="1" >
                     <Button.ContentTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
